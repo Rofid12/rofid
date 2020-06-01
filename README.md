@@ -1,2 +1,0 @@
-# rofid
-Rofid.sh
